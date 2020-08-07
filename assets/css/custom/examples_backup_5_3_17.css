@@ -50,7 +50,7 @@ abbr,acronym { border: 0;
 /* Custom CSS
  * --------------------------------------- */
 body{
-	font-family: 'Alfa Slab One', cursive;
+	font-family: 'NittiPX-Black', cursive;
 	color: #fff;
 	color: rgba(0,0,0,0.5);
 }
@@ -1047,4 +1047,3 @@ input.cbp-mc-submit:hover {
 .post h6{
 	color: #ff5a71;
 }
-
